@@ -1,0 +1,14 @@
+ .hover-scale:hover {
+     transform: scale(1.05);
+     transition: all 0.3s ease;
+ }
+
+ .hover-underline:hover {
+     text-decoration: underline;
+     cursor: pointer;
+ }
+
+ .nav-link:hover {
+     color: #dc3545 !important;
+     transition: color 0.3s ease;
+}
