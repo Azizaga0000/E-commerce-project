@@ -179,7 +179,7 @@ export default function Home() {
                   ))}
                 </div>
 
-                <a className="btn btn-dark btn-sm mt-3" href="#">
+                <a className="btn btn-dark btn-sm mt-3" href="/shop">
                   Shop now
                 </a>
               </div>
@@ -204,7 +204,7 @@ export default function Home() {
               <p className="hero-sub">
                 Created to change everything for the better. For everyone.
               </p>
-              <a className="btn btn-outline-light" href="#">
+              <a className="btn btn-outline-light" href="/shop">
                 Shop Now
               </a>
             </div>
@@ -257,7 +257,7 @@ export default function Home() {
                       className={`btn btn-sm mt-2 ${
                         p.dark ? "btn-outline-light" : "btn-light text-dark border"
                       }`}
-                      href="#"
+                      href="/shop"
                     >
                       Shop Now
                     </a>
