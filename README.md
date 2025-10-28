@@ -23,4 +23,6 @@ If you are developing a production application, we recommend using TypeScript wi
 # HOW TO RUN 
 
 First of all: npm run dev 
+
+#
 Second of all: node server/server.js
